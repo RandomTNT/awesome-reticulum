@@ -9,7 +9,7 @@ Also available at [awesome-reticulum.net](https://awesome-reticulum.net)
 * [Network Stack](#network-stack)
 * [Application-Layer Protocols](#application-layer-protocols)
 * [Node Firmware](#node-firmware)
-* [Messangers and Browsers](#messangers-and-browsers)
+* [Messengers and Browsers](#messengers-and-browsers)
 * [Transports and Network Interfaces](#transports-and-network-interfaces)
 * [Network Tools](#network-tools)
 * [LXMF Bots](#lxmf-bots)
@@ -45,7 +45,7 @@ Also available at [awesome-reticulum.net](https://awesome-reticulum.net)
 * [strijar / RNS-Gate](https://github.com/strijar/RNS-Gate) - Standalone device for access and routing within the Reticulum Network Stack
 * [gretel / reticulum-openwrt](https://github.com/gretel/reticulum-openwrt) - GitHub workflow for cross-compiling Reticulum Network Stack (RNS) packages for OpenWrt.
 
-## Messangers and Browsers
+## Messengers and Browsers
 
 * [markqvist / NomadNet](https://github.com/markqvist/NomadNet) - Off-grid, resilient mesh communication with strong encryption, forward secrecy and extreme privacy.
 * [markqvist / Sideband](https://github.com/markqvist/Sideband) - Sideband is an extensible LXMF messaging and LXST telephony client, situational awareness tracker and remote control and monitoring system for Android, Linux, macOS and Windows.
